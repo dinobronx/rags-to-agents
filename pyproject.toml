@@ -1,0 +1,17 @@
+[project]
+name = "rags-to-agents"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "dirdotenv>=0.0.3",
+    "frontmatter>=3.0.8",
+    "gitsource>=0.0.4",
+    "jupyter>=1.1.1",
+    "markitdown[pdf]>=0.1.5",
+    "minsearch>=0.0.10",
+    "openai>=2.32.0",
+    "python-frontmatter>=1.1.0",
+    "requests>=2.32.5",
+]
